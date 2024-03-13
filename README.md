@@ -8,7 +8,7 @@ Este é um projeto que usa regressão linear para prever a classificação (rati
 - Abra o Google Colab.
 - Faça upload do arquivo anime_rating_prediction.ipynb.
 - Execute as células do notebook para carregar os dados, treinar o modelo e fazer previsões.
--- Uso em outras IDEs
+# Uso em outras IDEs
 - Clone o repositório para sua máquina local.
 - Abra o arquivo analise.ipynb em sua IDE preferida que suporte Jupyter Notebooks (como Jupyter Notebook, JupyterLab, VSCode com extensão Jupyter, etc.).
 - Execute as células do notebook para carregar os dados, treinar o modelo e fazer previsões.
